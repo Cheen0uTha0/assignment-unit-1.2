@@ -13,6 +13,8 @@ cd ..
 Right click and select new folder
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
+In an empty folder command ls will return showing no files.
+In a folder containing files command ls will return showing the named files that is in the folder.
 
 # 6 - What is a quick way to create a new file?
 

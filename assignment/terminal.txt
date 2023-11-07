@@ -24,6 +24,9 @@ Output will show if there is a git installed or not.
 If there is a git installed the command will return with the git version it currently has.
 
 # 8 - Why would you run the command 'git status'?
+To view what files have been modify.
+
+Also to view if the commits on the local has been push to the origin/main.
 
 # 9 - What does the command 'git add .' do?
 

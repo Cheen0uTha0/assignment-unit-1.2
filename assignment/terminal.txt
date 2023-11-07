@@ -20,6 +20,8 @@ In a folder containing files command ls will return showing the named files that
 In terminal use command mkdir
 
 # 7 - Run 'git --version' in your terminal. What is the output?
+Output will show if there is a git installed or not.
+If there is a git installed the command will return with the git version it currently has.
 
 # 8 - Why would you run the command 'git status'?
 

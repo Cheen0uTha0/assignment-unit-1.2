@@ -28,5 +28,6 @@ To view what files have been modify.
 Also to view if the commits on the local has been push to the origin/main.
 
 # 9 - What does the command 'git add .' do?
+To stage the changes made to the git
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?

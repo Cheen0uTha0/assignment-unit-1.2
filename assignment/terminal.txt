@@ -17,6 +17,7 @@ In an empty folder command ls will return showing no files.
 In a folder containing files command ls will return showing the named files that is in the folder.
 
 # 6 - What is a quick way to create a new file?
+In terminal use command mkdir
 
 # 7 - Run 'git --version' in your terminal. What is the output?
 
